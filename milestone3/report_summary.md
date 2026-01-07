@@ -16,7 +16,6 @@ To visualize detected anomalies in an interpretable and user-friendly manner
 
 This approach ensures early identification of unusual physiological behavior while maintaining high interpretability and minimal false positives.
 
-Summary
 
 This work presents a forecasting-driven anomaly detection system designed for continuous health monitoring using time-series data. The process begins with structured data preprocessing, where timestamps are standardized and missing values are eliminated to ensure data reliability. A Prophet time-series forecasting model is then trained to learn underlying temporal patterns, including trends and seasonality, present in historical heart rate data.
 
